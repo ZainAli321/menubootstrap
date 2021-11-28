@@ -1,0 +1,68 @@
+* {
+  color: black;
+}
+
+h2 {
+  margin: 35px;
+  font-size: 3em;
+}
+
+h3 {
+  text-align: center;
+  color: brown;
+}
+/* Start Navbar*/
+
+.navbar-brand {
+  letter-spacing: 1.3em;
+  font-size: 1.7em;
+  color: yellow;
+}
+
+#nav {
+  background: url(/Blured\ ights.jpg) no-repeat;
+  width: 100%;
+  padding: 15px;
+}
+
+#nav-list {
+  margin-top: 19.5px;
+}
+
+li {
+  margin-right: 10px;
+}
+
+.nav > li > a {
+  color: white;
+  font-size: 1.2em;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+.nav > li > a:hover {
+  color: black;
+}
+
+/*-------- End Of Navbar ------*/
+
+/*-------- Start Of Content ------*/
+
+section {
+  margin-bottom: 25px;
+  border: 1px solid black;
+  padding: 1em;
+}
+
+hr {
+  border-top: 1px solid black;
+}
+
+section > a {
+  font-size: 1.5em;
+  color: black;
+}
+
+section > a:hover {
+  text-decoration: none;
+}
