@@ -36,14 +36,14 @@ li {
 }
 
 .nav > li > a {
-  color: white;
+  color: black;
   font-size: 1.2em;
   border-radius: 10px;
   transition: 0.3s;
 }
 
 .nav > li > a:hover {
-  color: black;
+  color:blue;
 }
 
 /*-------- End Of Navbar ------*/
