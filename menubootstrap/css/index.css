@@ -36,14 +36,14 @@ li {
 }
 
 .nav > li > a {
-  color: black;
+  color: white;
   font-size: 1.2em;
   border-radius: 10px;
   transition: 0.3s;
 }
 
 .nav > li > a:hover {
-  color:blue;
+  color:black;
 }
 
 /*-------- End Of Navbar ------*/
@@ -54,6 +54,7 @@ section {
   margin-bottom: 25px;
   border: 1px solid black;
   padding: 1em;
+  background-color:white;
 }
 
 hr {
